@@ -1,4 +1,4 @@
-**********Project Description**********
+## **Project Description**
 
 An interactive web calculator built using HTML, CSS, and JavaScript to perform basic arithmetic operations.
 
@@ -19,9 +19,7 @@ An interactive web calculator built using HTML, CSS, and JavaScript to perform b
 
 Syed Taha Bukhari
 
-GitHub: ![Taha-bukhari](https://github.com/Taha-bukhari/Calculator)
-
-LinkedIn: ![My LinkedIn Profile](https://linkedin.com/in/tahabukhari-a512702a8)
-
-Email: tahabukhari175@gmail.com
+- GitHub: [Taha-bukhari](https://github.com/Taha-bukhari/Calculator)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tahabukhari-a512702a8)
+- Email: tahabukhari175@gmail.com
 
